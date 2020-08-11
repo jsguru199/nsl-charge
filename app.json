@@ -1,0 +1,25 @@
+{
+  "name": "NotesmartlyLabs",
+  "displayName": "NotesmartlyLabs",
+  "expo": {
+    "name": "NotesmartlyLabs",
+    "slug": "NotesmartlyLabs",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "android": {
+      "package": "com.notesmartlylabs.notesmartlylabs",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.notesmartlylabs.notesmartlylabs",
+      "buildNumber": "1.0.0"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
